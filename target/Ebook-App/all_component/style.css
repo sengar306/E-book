@@ -1,0 +1,21 @@
+
+.bg-custom{
+	background-color:  blue;
+	color:black;
+}
+.navbar .nav-item:hover .nav-link {
+	background-color: #ffffff;
+	color: blue;
+	border-radius:15px;
+}
+.navbar .nav-item .nav-link {	
+	color: black;
+}
+.button-container{
+	display:flex;
+}
+
+.col-md-3 .crd-ho:hover{
+	background-color: #FFEBCD;
+	box-shadow: 1px 0 11px rgba(33,33,33,.2);
+}
