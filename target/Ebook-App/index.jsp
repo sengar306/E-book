@@ -13,7 +13,7 @@
 background: url("IMG/Book.jpg");
 height: 50vh;
 width:100%;
-background-repeat:no-repeat; 
+background-repeat:no-repeat;
 background-size:cover;
 }
 </style>

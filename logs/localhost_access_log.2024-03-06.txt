@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:08 +0530] "GET /Ebook-App HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:10 +0530] "GET /Ebook-App/ HTTP/1.1" 200 10882
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:10 +0530] "GET /Ebook-App/all_component/style.css HTTP/1.1" 200 358
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:10 +0530] "GET /Ebook-App/book/HarryPotter.jpg HTTP/1.1" 200 96076
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:10 +0530] "GET /Ebook-App/IMG/Book.jpg HTTP/1.1" 200 2875883
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:10 +0530] "GET /favicon.ico HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:13 +0530] "GET /Ebook-App/register.jsp HTTP/1.1" 200 5349
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:31 +0530] "POST /Ebook-App/register HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Mar/2024:20:15:31 +0530] "GET /Ebook-App/register.jsp HTTP/1.1" 200 5432
